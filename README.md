@@ -47,9 +47,9 @@ Fit the model and predict the single input
 
 ## PROGRAM:
 
-**Name:** RAHUL M R
+**Name:** MOHANKUMAR.S
 
-**Register Number:** 2305003005
+**Register Number:** 2305002014
 
 ```
 import numpy as np
